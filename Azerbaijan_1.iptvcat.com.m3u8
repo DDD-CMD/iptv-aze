@@ -33,20 +33,8 @@ http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:iptvcat.com
 http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Idman
 http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Kanal 7
-http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Kanal D
-http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/b6i8byT.png" group-title="Undefined",Kəpəz TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",MTV DANCE
-http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",MTV HITS
-http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",MTV RUSSIA
-http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Mezzo Live
-http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Minika Cocuk
 http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Minika Go
@@ -55,26 +43,6 @@ http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd?checkedby:iptvcat.com
 http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Mədəniyyət
 http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",NTV
-http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Nat Geo Wild
-http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",National Geographic Channel
-http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Nickelodeon
-http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",NİCK JR
-http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",OCEAN TV
-http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",ON4
-http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",PARAMOUNT COMEDY
-http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",POWERTURK
-http://mfe.cliptv.az/dash/POWERTURK_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Paramount Channel
-http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",QƏBƏLƏ TV
 https://qebele.tv/live/stream/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",RTG TV
