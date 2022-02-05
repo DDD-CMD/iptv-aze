@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",2x2
-http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",5 канал
-http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",A Haber
-http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",A Spor
-http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AKILLI TV
-http://mfe.cliptv.az/dash/AKILLI_TV_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AL ZAHRA TV
-http://live.al-zahratv.com/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AMC
-http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/0MFkKAr.jpg" group-title="Undefined",ARB
 http://85.132.81.184:8080/arb/live/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/wiIJMek.jpg" group-title="Undefined",ARB 24
