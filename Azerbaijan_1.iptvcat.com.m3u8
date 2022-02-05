@@ -25,32 +25,14 @@ http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd?checkedby:iptvcat.c
 http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Dalğa TV
 http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Disney
-http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Dunya TV
 http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",EL TV
-http://85.132.53.162:1935/live/eltv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",ELTV
 http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",EUROSPORT 1
-http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",FASHION TV
-http://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Gulli Girl
-http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",HABERTÜRK
-http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",HD Life
-http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",History
-http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Ictimai
 http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Idman
 http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Investigation Discovery
-http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Kanal 7
 http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Kanal D
